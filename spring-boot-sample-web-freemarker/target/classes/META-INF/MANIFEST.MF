@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Web FreeMarker Sample
+Implementation-Version: 1.5.4.RELEASE
+Built-By: lei
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_71
+Implementation-URL: http://projects.spring.io/spring-boot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
